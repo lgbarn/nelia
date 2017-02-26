@@ -6,6 +6,8 @@ Mac
 1.	Install [Virtualbox](https://www.virtualbox.org)
 2.	Install [Vagrant](https://www.vagrantup,com)
 3.	Install [Homebrew](https://brew.sh)
+4.	Install [Atom](https://atom.io/)
+5.	Install [iTerm2](https://www.iterm2.com/)
 
 Proficiency Tips
 ================
@@ -18,3 +20,5 @@ Proficiency Tips
 3.	Using brew install packages:
 	-	nmap
 	-	vim
+	-	cask
+	-	caffeine (Install using 'brew cask install caffeine')
